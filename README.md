@@ -15,6 +15,8 @@
 【后端及数据库】
 
 - **JSONSERVER**：利用 本地JSONSERVER 储存数据 http://localhost:3000/users 
+- **JSONSERVER**：JSONSERVER文件单独提取出来 命令行开启服务 npm run json:servar
+
 【自动化构建及其他工具】
 
 - **vue-cli**：Vue 脚手架工具，快速初始化项目代码
@@ -22,6 +24,8 @@
 ## :pencil: 实现细节
 
 主要功能：主页、关于我们、用户添加、详情、用户修改、删除
+
+![Image text]( 这里是你的图片链接)
 
 ## :closed_book: 收获
 
@@ -32,7 +36,6 @@
 5. 熟悉了 vue-router 控制路由和子路由的方式
 6. 再次熟悉项目开发流程：项目分析设计 -> 项目环境搭建 -> 依赖安装 -> 页面架构设计 -> 组件开发 -> 测试联调 -> 发布上线
 7. 体会到组件化、模块化开发带来的便捷
-
 
 
 ## Build Setup
