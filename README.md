@@ -25,7 +25,8 @@
 
 主要功能：主页、关于我们、用户添加、详情、用户修改、删除
 
-![Image text]( 这里是你的图片链接)
+![首页](https://github.com/MsJun/vcustomers/blob/master/src/assets/1.png)
+![添加用户](https://github.com/MsJun/vcustomers/blob/master/src/assets/2.png)
 
 ## :closed_book: 收获
 
