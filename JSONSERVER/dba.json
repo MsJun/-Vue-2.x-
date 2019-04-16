@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Bucky",
+      "phone": "15236523654",
+      "email": "bucky@gmail.com",
+      "education": "本科",
+      "graduationschool": "河北大学",
+      "profile": "用心去做自己想做的事情。。。。",
+      "id": 2
+    },
+    {
+      "name": "Hen2",
+      "phone": "333-444-555",
+      "email": "hen@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Henny",
+      "phone": "17600209001",
+      "email": "920222040@qq.com",
+      "education": "本科",
+      "graduationschool": "北京交通大学",
+      "profession": "web前端工程师",
+      "profile": "一个奔跑在前端路上的Boy！",
+      "id": 4
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is good!"
+    },
+    {
+      "id": 3,
+      "name": "Goole",
+      "description": "Goole is good!"
+    }
+  ]
+}
